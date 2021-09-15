@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lilian Robert
-- 👀 I’m interested in creating cool apps, research, and writing
-- 🌱 I’m currently learning Python Django, Django REST, JavaScript, and REACT
-- 💞️ I’m looking to collaborate on projects that streamline biomedical research, education, and healthcare processes
+- 👋 Hi, I’m Lilian Robert; a researcher, software developer, writer, mom, cosmic energy wonderist...
+- 👀 I’m interested in solutions-based research and creating applications that mostly streamline important processes and sometimes for fun
+- 🌱 I’m currently experienced (and also deepening my skills) in Python Django, Django REST, JavaScript, and REACT
+- 💞️ I’m looking to collaborate on software projects that streamline operations, with a bias towards biomedical research, education, and healthcare
 - 📫 How to reach me ...mslillianito@gmail.com
 
 <!---
