@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a software developer, researcher, writer, mom, cosmic energy wonderist...
+- 👋 Hi, I’m a web developer and hobby writer
 - 👀 I’m interested in solutions-based research, applications design, and development, as well as AI
 - 🌱 I’m currently experienced (and also deepening my skills) in Python Django, Django REST, JavaScript, and REACT
 - 💞️ I’m looking to collaborate on software projects that streamline operations, with a bias towards biomedical research, education, and healthcare
